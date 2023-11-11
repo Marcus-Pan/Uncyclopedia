@@ -1,4 +1,4 @@
 # Uncyclopedia
 Uncyclopedia entries created by me.
 
-http://uncyclopedia.org/wiki/User:MarcusPan
+https://en.uncyclopedia.co/wiki/User_talk:MarcusPan
