@@ -5,7 +5,7 @@ Verily I go and verily I be. Speak nothing, but say much said the spider to the 
 
 ### I Speaketh Thus
 Ask not what they misinformation may do for you, rather ask it nothing and know that all is true if we say it is. I am authoritative on: 
--     Athe
+- Athe
 - The Big White Telephone
 - ∩niverse
 - Umpalumpas
